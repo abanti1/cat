@@ -68,3 +68,14 @@ body.dark-mode {
     cursor: pointer;
     top:50px;
 }
+#quote-container {
+    text-align: center;
+}
+
+#show-quote-button,#hide-quote-button {
+    background-color: #6a1b9a;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
